@@ -5,57 +5,45 @@ BYLAWS
 
 of 
 
-THE BITCOIN FOUNDATION, INC.
+THE OMNI FOUNDATION, INC.
 
-(a District of Columbia non-profit corporation)
+(Zug Switzerland non-profit corporation)
 
-Effective as of July 23, 2012
+Effective as of January 1st, 2015
 
 ARTICLE I - OFFICES
 
-Section 1.1	Principal Office: The Corporation's principal office shall be located in the District of Columbia. The Board of Directors shall have full power and authority to change the location of the Corporation's principal office. 
+Section 1.1	Principal Office: The Corporation's principal office shall be located in the Zug, Switzerland. The Board of Directors shall have full power and authority to change the location of the Corporation's principal office. 
 
 Section 1.2	Other Offices: The Board of Directors shall have full power and authority to establish branch, subordinate, or other offices at any place or places where the Corporation may legally conduct business.
 
 ARTICLE II - PURPOSES
 
-Section 2.1	Purposes: The Corporation is an association of persons having a common business interest, the purpose of which is to promote that common business interest and to engage in any lawful activity permitted under section 501(c)(6) of the Internal Revenue Code, or the corresponding section of any future federal tax code. More specifically, the purposes of the Corporation include, but are not limited to, promotion, protection, and standardization of distributed-digital currency and transactions systems including the Bitcoin system as well as similar and related technologies.
+Section 2.1	Purposes: The Corporation is an association of persons having a common business interest, the purpose of which is to promote that common business interest and to engage in any lawful activity permitted. More specifically, the purposes of the Corporation include, but are not limited to, promotion, protection, and standardization of distributed-digital currency and smart asset / property systems including the Omni Layer system as well as similar and related technologies.
 
-Section 2.2	The Corporation shall promote and protect both the decentralized, distributed and private nature of the Bitcoin distributed-digital currency and transaction system as well as individual choice, participation and financial privacy when using such systems. The Corporation shall further require that any distributed-digital currency falling within the ambit of the Corporation's purpose be decentralized, distributed and private and that it support individual choice, participation and financial privacy.
+Section 2.2	The Corporation shall promote and protect both the decentralized, distributed and private nature of the Omni distributed-digital currency and smart asset / property system as well as individual choice, participation and financial privacy when using such systems. The Corporation shall further require that any distributed-digital currency falling within the ambit of the Corporation's purpose be decentralized, distributed and private and that it support individual choice, participation and financial privacy.
 
 ARTICLE III - MEMBERSHIP
 
-Section 3.1	Membership Classes: The Corporation will have three classes of membership: 
+Section 3.1	Membership Classes: The Corporation will have two classes of membership: 
 
-(a) Founding Members; 
+(a) Industry Members; and 
 
-(b) Industry Members; and 
-
-(c) Individual Members. 
+(b) Individual Members. 
 
 The term "member" may be used to refer generically to a member in any class.
 
 Section 3.2	Membership Qualifications: The requirements for membership in each membership class shall be as follows:
 
-(a)	Founding Members. The Founding Members of the Corporation shall be:
+(a)	Industry Members. The Founding Members of the Corporation shall be:
 
-i. Gavin Andresen, Bitcoin Developer residing or doing business in Amherst, MA, USA.
+i. Craig Sellars, Omni Developer residing or doing business in the United States representing Tether.
 
-ii. Peter Vessenes, CEO of CoinLab and residing or doing business in Bainbridge Island, WA, USA.
+ii. David Johnston, residing or doing business in Austin, TX representing Factom.
 
-iii. Charles Shrem, CEO of BitInstant residing or doing business in Brooklyn, NY, USA.
+(a) Industry Members. The Industry Members of the Corporation shall be corporate entities doing business in, servicing or supporting the Omni system or in a similar distributed-digital asset system. The Board of Directors, in its sole discretion, may create categories of Industry Members with special rights, privileges, or duties; however, no such categories shall have any rights, privileges, or duties inconsistent with these Bylaws.
 
-iv. Roger Ver, CEO of MemoryDealers residing or doing business in Santa Clara, CA, USA.
-
-v. Patrick Murck, Principal at Engage Legal, PLLC residing or doing business in Washington, DC, USA.
-
-vi. Mark Karpeles, CEO of MtGox.com and residing or doing business in Tokyo, Japan.
-
-vii. Satoshi Nakamoto, at satoshin@gmx.com, author of the white paper “Bitcoin: A Peer-to-Peer Electronic Cash System” published on http://bitcoin.org and owner of the PGP Public Key with fingerprint: DE4E FCA3 E1AB 9E41 CE96  CECB 18C0 9E86 5EC9 48A1.
-
-(b) Industry Members. The Industry Members of the Corporation shall be corporate entities doing business in, servicing or supporting the Bitcoin system or in a similar distributed-digital currency system. The Board of Directors, in its sole discretion, may create categories of Industry Members with special rights, privileges, or duties; however, no such categories shall have any rights, privileges, or duties inconsistent with these Bylaws.
-
-(c) Individual Members. The Individual Members shall be natural persons transacting in, promoting or otherwise contributing to the Bitcoin system or other similar distribute-digital currency system.
+(b) Individual Members. The Individual Members shall be natural persons using, promoting or otherwise contributing to the Omni system or other similar distribute-digital asset system.
 
 Section 3.3	Affiliates, Additional Rights & Limitations on Voting Rights of Members:
 
@@ -73,7 +61,7 @@ Section 3.6	Termination of Membership: Any member's membership shall terminate u
 
 (a) Resignation. A member may resign from the Corporation by submitting a writing delivered to the Corporation's Secretary. However, resignation from the Corporation shall not relieve the member from any pre-resignation obligations incurred or commitments made, including without limitation, membership dues, fees, or assessments that are due and owing prior to the member's resignation. Any member that resigns is not entitled to and shall not receive any refund, pro rata or otherwise, of any membership dues, fees, or assessments for the balance of the calendar year in which the resignation is effective.  
 
-(b) Expulsion, Termination or Suspension. Except for the Founding Members who shall only be removed for cause (per the requirements detailed in Section 5.16(b)), a majority of the Directors then in office may terminate any other membership after giving the member at least 30 days' written notice (for which email shall suffice) of the termination and the reasons for the termination, provided that (except in the case of termination for non-payment of membership dues, fees, or assessments in a timely fashion) the member has an opportunity to be heard by the Board, either orally or in writing, no less than five (5) days before the effective date of the termination. The Board's decision shall be final and not reviewable by any court.
+(b) Expulsion, Termination or Suspension. A majority of the Directors then in office may terminate any other membership after giving the member at least 30 days' written notice (for which email shall suffice) of the termination and the reasons for the termination, provided that (except in the case of termination for non-payment of membership dues, fees, or assessments in a timely fashion) the member has an opportunity to be heard by the Board, either orally or in writing, no less than five (5) days before the effective date of the termination. The Board's decision shall be final and not reviewable by any court.
 
 Section 3.7	Reinstatement: Members that are suspended, terminated, or expelled under Section 3.6(b) may be reinstated only upon an affirmative vote of two-thirds of the Directors then in office. 
 
@@ -95,7 +83,7 @@ Section 3.11	Distribution of Assets Upon Dissolution: Upon dissolution of the Co
 
 ARTICLE IV - MEMBERSHIP MEETINGS
 
-Section 4.1	Place of Meetings: All meetings of members shall be held at the Corporation's principal office, or at any other place within or without the District of Columbia, as determined by the Board of Directors pursuant to the authority herein granted to it.
+Section 4.1	Place of Meetings: All meetings of members shall be held at the Corporation's principal office, or at any other place within or without Zug, Switzerland as determined by the Board of Directors pursuant to the authority herein granted to it.
 
 Section 4.2	Annual Meetings: The annual meeting of each class of members shall be held in each calendar year, on such date and at such time and place as determined by the Board of Directors. Annual meetings may be held in any manner permitted by law.
 
@@ -145,25 +133,21 @@ Section 5.2	Number of Directors: The minimum authorized number of directors is f
 
 Section 5.3	Composition of Board of Directors Terms: All directors serving on the Board of Directors shall be selected in the manner set forth in this Section 5.3.
 
-(a) Founding Directors: Until December 31, 2014, The Founding Members shall elect one (1) director or such fewer number as equals the total number of Founding Members. All directors elected by Founding Members shall hereafter be known as “Founding Directors”. Each Founding Director shall be deemed to have been duly elected upon receipt by the Chairman of the Board of a written ballot from the Founding Members. The initial Founding Director shall be Peter Vessenes, CEO of CoinLab, Inc. After December 31, 2014 there shall be no Founding Directors. After December 31, 2014 there shall be no Founding Director nor any Founding Member elections for a Founding Director.
+(a) Industry Directors: Industry Members, voting as a class, shall elect three (3) directors or such fewer number as equals the total number of Industry Members. All directors elected by Industry Members shall be known as "Industry Directors." Each Industry Member shall be entitled to nominate a single candidate in any election of Industry Directors. Industry Directors may be elected: (i) at a meeting of the Industry Members; (ii) by written ballot delivered to the Industry Members; or (iii) in some other manner authorized by law or these Bylaws. The initial Industry Directors shall be Craig Sellars, CTO of Tether, Adam Chamely and David Johnston Chairman of the Factom Foundation. 
 
-(b) Industry Directors: Industry Members, voting as a class, shall elect three (3) directors or such fewer number as equals the total number of Industry Members. All directors elected by Industry Members shall be known as "Industry Directors." Each Industry Member shall be entitled to nominate a single candidate in any election of Industry Directors. Industry Directors may be elected: (i) at a meeting of the Industry Members; (ii) by written ballot delivered to the Industry Members; or (iii) in some other manner authorized by law or these Bylaws. The initial Industry Directors shall be Charles Shrem, CEO of BitInstant LLC and Mark Karpeles, CEO of MtGox.com. 
+(b) Individual Directors: Individual Members of the Corporation, voting as a class, shall elect three (2) directors known as "Individual Directors". Each Individual Member shall be entitled to nominate a single candidate in any election of an Individual Director and such directors shall be elected: (i) at a meeting of the members; (ii) by written ballot delivered to the members; or (iii) in some other manner authorized by law or these Bylaws. The initial Individual Directors shall be Zathras, Omni Developer and Marv Schneider, Omni developer.
 
-(c) Individual Directors: Individual Members of the Corporation, voting as a class, shall elect three (3) directors known as "Individual Directors". Each Individual Member shall be entitled to nominate a single candidate in any election of an Individual Director and such directors shall be elected: (i) at a meeting of the members; (ii) by written ballot delivered to the members; or (iii) in some other manner authorized by law or these Bylaws. The initial Individual Directors shall be Gavin Andresen, Bitcoin Developer and Jon Matonis, Editor of The Monetary Future.
+(c) Observers: Each director shall have the right to designate a single observer to attend Board of Directors meetings when such director is unable to be present. However, the director shall provide prior notice to the Chairman of the Board and the Chairman approves the request. Such a request shall not be unreasonably denied. An observer attending in place of a director shall have the right to fully participate in the general session, but may not vote on or put forth any motion. Notwithstanding the foregoing, an Observer may vote by proxy if approved by the Board in advance.
 
-(d) Observers: Each director shall have the right to designate a single observer to attend Board of Directors meetings when such director is unable to be present. However, the director shall provide prior notice to the Chairman of the Board and the Chairman approves the request. Such a request shall not be unreasonably denied. An observer attending in place of a director shall have the right to fully participate in the general session, but may not vote on or put forth any motion. Notwithstanding the foregoing, an Observer may vote by proxy if approved by the Board in advance.
-
-(e) Terms and Election Dates: All directors shall hold office until their successor is elected. Except for adjustments that may be made by the Board from time-to-time to maintain or create staggered terms upon any increase or decrease in the authorized number of directors, the term of office for Founding Directors, Industry Directors, and At-Large Directors shall be two (2) years and shall run from January 1 to December 31 of the second calendar year after election. Elections of directors whose terms are expiring in any calendar year shall be held as soon as practicable following the commencement of the membership year. Unless elected by written ballot pursuant to Section 4.9, the positions of directors then expiring shall be filled and elections held at the annual meeting of members called for such purpose. The Board of Directors may issue resolutions establishing procedures governing elections of directors, provided that those resolutions are consistent with these Bylaws and the Articles.
+(d) Terms and Election Dates: All directors shall hold office until their successor is elected. Except for adjustments that may be made by the Board from time-to-time to maintain or create staggered terms upon any increase or decrease in the authorized number of directors, the term of office for Founding Directors, Industry Directors, and At-Large Directors shall be two (2) years and shall run from January 1 to December 31 of the second calendar year after election. Elections of directors whose terms are expiring in any calendar year shall be held as soon as practicable following the commencement of the membership year. Unless elected by written ballot pursuant to Section 4.9, the positions of directors then expiring shall be filled and elections held at the annual meeting of members called for such purpose. The Board of Directors may issue resolutions establishing procedures governing elections of directors, provided that those resolutions are consistent with these Bylaws and the Articles.
 
 Section 5.4	Vacancies: Board of Directors vacancies shall be handled in the following ways:
 
 (a) Vacancies resulting from the expiration of a director's term shall be filled by an election by the majority of a quorum of members in the class that elected that director.
 
-(b) Vacancies of a Founding Director resulting from resignation of the director or removal of the director shall be filled by election of a majority of the Founding Members.
+(b) Vacancies of a Industry Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of Industry Members. 
 
-(c) Vacancies of a Industry Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of Industry Members. 
-
-(d) Vacancies of an Individual Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of the Individual Members. 
+(c) Vacancies of an Individual Director resulting from resignation of the director or removal of the director shall be filled by an election of a majority of a quorum of the Individual Members. 
 
 Notwithstanding the foregoing, if these Bylaws are amended to expand the number of directors representing a membership class, the Board of Directors may appoint an interim director representing such class until the members of such class elect a director. Each director shall hold office until his or her successor is elected. A vacancy shall be deemed to exist in the following situations:
 
@@ -177,7 +161,7 @@ Notwithstanding the foregoing, if these Bylaws are amended to expand the number 
 
 If the Board authorizes a reduction in the amount of directors, such a reduction shall not remove any director prior to the expiration or other termination of his or her term.
 
-Section 5.5	Place of Meeting: All Board of Directors meetings may be held within or without the District of Columbia at any place designated from time to time by resolution of the Board of by written notice of the Chairman of the Board.
+Section 5.5	Place of Meeting: All Board of Directors meetings may be held within or without the Zug, Switzerland at any place designated from time to time by resolution of the Board of by written notice of the Chairman of the Board.
 
 Section 5.6	Regular Meetings: Regular meetings of the Board of Directors shall be held at regular intervals that may from time to time be approved by the Board of Directors.
 
@@ -203,7 +187,7 @@ Section 5.12	Fees and Compensation: The Board of Directors, by resolution, may p
 
 Section 5.13	Indemnity: The Corporation shall indemnify its directors to the fullest extent allowed by sections 29-406.51 and 29-406.52 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code.
 
-Section 5.14	Standard of Conduct: In accordance with section 29-406.30 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code, a director shall discharge the duties of a director, including duties as a member of any committee on which the director may serve, in good faith, in a manner the director reasonably believes to be in the best interests of the Corporation, and with the care a person in a like position would reasonably believe appropriate under similar circumstances. In discharging the duties of a director, a director shall be entitled to rely on information, opinions, reports or statements, including financial statements and other financial data, in each case if prepared or presented by: 
+Section 5.14	Standard of Conduct: In accordance with the laws of Zug, Switzerland, or any corresponding section(s), a director shall discharge the duties of a director, including duties as a member of any committee on which the director may serve, in good faith, in a manner the director reasonably believes to be in the best interests of the Corporation, and with the care a person in a like position would reasonably believe appropriate under similar circumstances. In discharging the duties of a director, a director shall be entitled to rely on information, opinions, reports or statements, including financial statements and other financial data, in each case if prepared or presented by: 
 
 (a) One or more officers or employees of the Corporation whom the director reasonably believes to be reliable and competent in the matters presented; 
 
@@ -211,7 +195,7 @@ Section 5.14	Standard of Conduct: In accordance with section 29-406.30 of the Di
 
 (c) A Board committee which the director is not a member, as to matters within the committee's jurisdiction, if the director reasonably believes the committee merits confidence. 
 
-A director is not acting in good faith if he or she has knowledge concerning the matter in question that makes reliance otherwise permitted in this Section 5.14 unwarranted. A director is not liable to the Corporation, any member, or any other person for any action taken or not taken as a director, if the director acted in compliance with this Section 5.14. The liability of a director for monetary damages to the Corporation and its members shall be eliminated to the fullest extent provided by sections 29-406.51 and 29-406.52 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code.
+A director is not acting in good faith if he or she has knowledge concerning the matter in question that makes reliance otherwise permitted in this Section 5.14 unwarranted. A director is not liable to the Corporation, any member, or any other person for any action taken or not taken as a director, if the director acted in compliance with this Section 5.14. The liability of a director for monetary damages to the Corporation and its members shall be eliminated to the fullest extent provided by the laws of the Zug, Switzerland, or any corresponding section(s).
 
 Section 5.15 Conflict of Interest Transactions:
 
@@ -237,19 +221,17 @@ ARTICLE VI - OFFICERS
 
 Section 6.1	Officers:  The officers of the Corporation shall be: 
 
-(a) Chairman of the Board (who shall initially be Peter Vessenes, CEO of CoinLab, Inc.);
+(a) Chairman of the Board David A. Johnston Representing Factom
 
-(b) Vice Chairman (who shall initially be Charles Shrem, CEO of BitInstant LLC); 
+(b) Vice Chairman Craig Sellars Representing Tether; 
 
-(c) Executive Director (who shall initially be Peter Vessenes, CEO of CoinLab, Inc); 
+(c) General Counsel Jacob Farber of Perkins Coie;
 
-(d) General Counsel (who shall initially be Patrick Murck, Principal at Engage Legal PLLC);
+(e) Treasurer (who shall initially be Adam Chamley);
 
-(e) Treasurer (who shall initially be Peter Vessenes, CEO of CoinLab, Inc);
+(f) Chief Scientist (Zathras);
 
-(f) Chief Scientist (who shall initially be Gavin Andresen, Bitcoin Developer);
-
-(g) Secretary (who shall initially be Jon Matonis, Editor of the Monetary Future); and 
+(g) Secretary (Marv Schneider); and 
 
 (h) any other officers as the Board of Directors may appoint. 
 
@@ -269,11 +251,9 @@ Section 6.5	Chairman of the Board: The Chairman of the Board shall be the Corpor
 
 Section 6.6	Vice Chairman: The Vice Chairman shall perform all the duties of the Chairman of the Board and, in so acting, shall have all of the powers of the Chairman of the Board in the event of the Chairman of the Board's absence, death, removal, resignation, or incapacity. The then-serving Vice Chairman shall have the authority to cast a tie-breaking vote in the election of the Chairman of the Board. Any candidate for Vice Chairman must be a director of the Corporation in order to run for election. The Vice Chairman shall have such other powers and duties as may be designated by the Board from time to time.
 
-Section 6.7	Executive Director: Subject to the supervision and control of, and reporting to, the Board of Directors, the Executive Director shall have general supervision, direction, and control of the business and affairs of the Corporation. The Executive Director shall, from time to time, report to the Board of Directors and the Chairman of the Board all matters within his or her knowledge affecting the Corporation that should be brought to the Board of Directors' attention. Any candidate for Executive Director must be a member of the Corporation in order to run for election. The Executive Director shall have such other powers and duties as may be designated by the Board from time to time.
+Section 6.7	General Counsel: The General Counsel shall have overall responsibility for directing and managing the legal affairs of the Corporation and working with the Board of Directors to establish a public policy strategy. It shall be the responsibility of the General Counsel to communicate and advocate for such the Corporation’s public policy strategy in such a manner as to further the goals of the Corporation. Any candidate for General Counsel must be a member of the Corporation in order to run for election. The General Counsel shall have such other powers and duties as may be designated by the Board from time to time.
 
-Section 6.8	General Counsel: The General Counsel shall have overall responsibility for directing and managing the legal affairs of the Corporation and working with the Board of Directors to establish a public policy strategy. It shall be the responsibility of the General Counsel to communicate and advocate for such the Corporation’s public policy strategy in such a manner as to further the goals of the Corporation. Any candidate for General Counsel must be a member of the Corporation in order to run for election. The General Counsel shall have such other powers and duties as may be designated by the Board from time to time.
-
-Section 6.9	Treasurer: The Treasurer shall have overall responsibility for all corporate funds, and shall perform, or cause to be performed, the following: 
+Section 6.8	Treasurer: The Treasurer shall have overall responsibility for all corporate funds, and shall perform, or cause to be performed, the following: 
 
 (a) Keeping full and accurate accounts of all the Corporation's financial records; 
 
@@ -287,7 +267,7 @@ Section 6.9	Treasurer: The Treasurer shall have overall responsibility for all c
 
 Any candidate for Treasurer must be a director of the Corporation in order to run for election. 
 
-Section 6.10	Secretary: The Secretary shall have overall responsibility for all recordkeeping and perform, or cause to be performed, the following: 
+Section 6.9	Secretary: The Secretary shall have overall responsibility for all recordkeeping and perform, or cause to be performed, the following: 
 
 (a) Official recording of the minutes of all Board of Directors proceedings, including the committees thereof, and members' meetings and actions; 
 
@@ -301,7 +281,7 @@ Section 6.10	Secretary: The Secretary shall have overall responsibility for all 
 
 Any candidate for Secretary must be a member of the Corporation in order to run for election.
 
-Section 6.11	Standards of Conduct for Officers: In accordance with section 29-406.42 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code, an officer shall discharge the duties of an officer in good faith, with the care an ordinarily prudent person in a like position would exercise under similar circumstances, and in a manner the officer reasonably believes to be in the best interests of the Corporation. An officer also shall inform a superior officer, the Board of Directors, relevant committee thereof, or other appropriate person of: 
+Section 6.10	Standards of Conduct for Officers: In accordance with section 29-406.42 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code, an officer shall discharge the duties of an officer in good faith, with the care an ordinarily prudent person in a like position would exercise under similar circumstances, and in a manner the officer reasonably believes to be in the best interests of the Corporation. An officer also shall inform a superior officer, the Board of Directors, relevant committee thereof, or other appropriate person of: 
 
 (a) Any affairs of the Corporation known to the officer, within the officer's scope of functions, that the officer knows to be material; 
 
@@ -315,9 +295,9 @@ In discharging the duties of an officer, an officer shall be entitled to rely on
 
 (b) Legal counsel, public accountants, or other persons as to matters the director reasonably believes are within the person's professional or expert competence and as to which the particular person merits confidence. 
 
-An officer is not acting in good faith if he or she has knowledge concerning the matter in question that makes reliance otherwise permitted in this Section 6.10 unwarranted. An officer is not liable to the Corporation, any member, or any other person for any action taken or not taken as an officer, if the officer acted in compliance with this Section 6.10. The liability of an officer for monetary damages to the Corporation and its members shall be eliminated to the fullest extent provided by section 29-406.56 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code.
+An officer is not acting in good faith if he or she has knowledge concerning the matter in question that makes reliance otherwise permitted in this Section 6.10 unwarranted. An officer is not liable to the Corporation, any member, or any other person for any action taken or not taken as an officer, if the officer acted in compliance with this Section 6.10. The liability of an officer for monetary damages to the Corporation and its members shall be eliminated to the fullest extent provided by the laws of the Zug, Switzerland or any corresponding section(s).
 
-Section 6.12	Indemnification: The Corporation shall indemnify its officers to the fullest extent allowed by section 29-406.56 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code.
+Section 6.11	Indemnification: The Corporation shall indemnify its officers to the fullest extent allowed by section 29-406.56 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code.
 
 ARTICLE VII - COMMITTEES
 
@@ -337,7 +317,7 @@ ARTICLE VIII - MISCELLANEOUS
 
 Section 8.1	Fiscal Year: The Corporation's fiscal year shall end on the last day of December of each year.
 
-Section 8.2	Inspection of Corporate Records: Members' rights to inspect and copy records of the Corporation shall be as provided in and subject to the terms and conditions of sections 29-413.02, 29-413.03, 29-413.04, 29-413.06, and 29-413.07 of the District of Columbia Official Code, or any corresponding section(s) of any future official District of Columbia code. 
+Section 8.2	Inspection of Corporate Records: Members' rights to inspect and copy records of the Corporation shall be as provided in and subject to the terms and conditions of sections of Zug, Switzerland.
 
 Section 8.3	Representation of Shares of Other Corporations: The Board of Directors may vote, represent, and exercise on behalf of the Corporation all rights incident to any and all shares or other membership interests of any other corporation or organizations standing in the name of the Corporation. The Board of Directors may issue resolutions delegating this authority to one or more officers of the Corporation and such officer, or other persons authorized to do so by proxy duly executed by such officer, may exercise those powers in person.
 
@@ -357,9 +337,7 @@ Section 8.6	Corporate Loans, Guarantees, and Advances: The Corporation shall not
 
 Section 8.7	Maintenance of Records: The Corporation shall maintain corporate records as required by section 29-413.01 of the District of Columbia Official Code, or any corresponding section of any future official District of Columbia code. 
 
-Section 8.8	Political Activities: The Corporation shall not make any political expenditure or lobbying expenditure that will result in the loss of, or otherwise adversely affect, its status as a tax-exempt organization under the Internal Revenue Code.
-
-Section 8.9	Form of Written Ballots:  Ballots submitted in facsimile or electronic form (such as email) shall be considered acceptable substitutes for printed ballots for all purposes. 
+Section 8.8	Form of Written Ballots:  Ballots submitted in facsimile or electronic form (such as email) shall be considered acceptable substitutes for printed ballots for all purposes. 
 
 ARTICLE IX - EFFECTIVE DATE, AMENDMENTS, AND DISSOLUTION
 
@@ -372,11 +350,10 @@ Section 9.3	Dissolution: The Corporation may be dissolved upon the approval of a
 
 SCHEDULE A
 
-Membership Dues Schedule (effective July 23, 2012)
+Membership Dues Schedule (effective January 1st, 2015)
 
 | MEMBERSHIP CLASS | MEMBERSHIP DUES
 | ---------- | ---------- |
-| Founding Members | 10BTC per annum
 | Industry Members (Silver) | 500BTC per annum
 | Industry Members (Gold) | 2,500BTC per annum
 | Industry Members (Platinum) | 10,000BTC per annum
